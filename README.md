@@ -1,9 +1,9 @@
-# supply-chain-analysis
-Graduation project for DEPI - Power BI Engineer Track.   This repository contains datasets, Power BI reports, and analysis related to our project Supply Chain analysis.
+
 
 # Supply Chain Performance Analysis
 
 This project analyzes supplier performance, manufacturing insights, inventory management, customer demographics, and shipping operations using real-world data. The goal is to identify performance bottlenecks, optimize supply chain operations, and provide data-driven recommendations.
+> Graduation project for DEPI - Power BI Engineer Track.   This repository contains datasets, Power BI reports, and analysis related to our project Supply Chain analysis.
 
 ---
 
